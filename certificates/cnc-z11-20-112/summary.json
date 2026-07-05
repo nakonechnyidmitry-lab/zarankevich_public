@@ -1,0 +1,17 @@
+{
+ "instance": [
+  11,
+  20,
+  3,
+  3,
+  112
+ ],
+ "mode": "rowsfull",
+ "cubes": 33,
+ "sat": 0,
+ "errors": 0,
+ "skipped": 0,
+ "wall_s": 1082.4,
+ "solve_s_total": 2249.9,
+ "verdict": "UNSAT at k=112: all 33 cubes UNSAT, every LRAT verified"
+}

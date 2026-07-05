@@ -1,0 +1,17 @@
+{
+ "instance": [
+  11,
+  21,
+  3,
+  3,
+  116
+ ],
+ "mode": "rowsfull",
+ "cubes": 70,
+ "sat": 1,
+ "errors": 0,
+ "skipped": 0,
+ "wall_s": 1429.4,
+ "solve_s_total": 3537.9,
+ "verdict": "SAT at k=116 (witness: cube_000069.cnf)"
+}
