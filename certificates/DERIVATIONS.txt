@@ -1,0 +1,8 @@
+z(12,20;3,3) = 120
+  UB: z(12,19)=114 [certificates/z12-19-closure] => z(12,20) <= floor(114*20/19) = 120
+      (delete min-degree column: some column has <= floor(k/20) ones)
+  LB: z(12,21) >= 126 [certificates/z12-21-closure witness] => z(12,20) >= ceil(126*20/21) = 120
+      (delete min-degree column of the 126-ones 12x21 matrix)
+z(12,21;3,3) = 126
+  UB: z(11,21) <= 116 [certificates/z11-21-ub116] => floor(116*12/11) = 126
+  LB: witness [certificates/z12-21-closure/z12-21_geq126.witness]
