@@ -1,0 +1,7 @@
+{
+ "tail_cube": "cube_000221.cnf",
+ "method": "march_cu partition",
+ "shards": 1239,
+ "all_shards": "UNSAT, LRAT verified",
+ "note": "monolithic attempt TIMEOUT@3600s; partition proof supersedes"
+}
