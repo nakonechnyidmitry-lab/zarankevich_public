@@ -1,0 +1,14 @@
+{
+ "instance": [
+  12,
+  19,
+  3,
+  3,
+  115
+ ],
+ "mode": "rowsfull",
+ "cubes": 222,
+ "verdict": "UNSAT at k=115: all 222 cubes UNSAT (221 cadical+LRAT, 1 via march-partition of tail cube_000221, 1239 shards all LRAT-verified)",
+ "note": "portfolio arm-A cnc_run left cube_000221 TIMEOUT@3600s; superseded by march partition (see tail_manifest). Coverage of partition verified by negation-DNF UNSAT (march excluded from trusted base).",
+ "verified_verdicts": "222/222"
+}
